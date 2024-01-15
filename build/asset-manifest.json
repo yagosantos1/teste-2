@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4304ec09.css",
+    "main.js": "/static/js/main.1544d9b0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/FRENTE.png": "/static/media/FRENTE.7bf574c71c2a1ffea728.png",
+    "static/media/TRAS.png": "/static/media/TRAS.c248c688ce9e8579d4cd.png",
+    "index.html": "/index.html",
+    "main.4304ec09.css.map": "/static/css/main.4304ec09.css.map",
+    "main.1544d9b0.js.map": "/static/js/main.1544d9b0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4304ec09.css",
+    "static/js/main.1544d9b0.js"
+  ]
+}
