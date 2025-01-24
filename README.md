@@ -1,26 +1,17 @@
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-</p>
+# Projeto-Netflix
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55723423/225168342-c7a69bdd-e3f7-4552-a259-b0dce0d07292.png">
-</p>
+## Propósito
 
+Nesse projeto meu próposito era recriar um clone da Netflix com a intenção de fazer uma surpresa para minha namorada como presente de um ano de namoro.
 
-## Demonstração
+## Idealização
 
-https://with-love-for-bell.vercel.app/
+Tive a ideía após ver um vídeo onde um programador fez a mesma coisa, então comecei a fazer rascunhos em um caderno.
 
-## Instalação
+## Construção
 
-Clone o repositório com ```git clone https://github.com/DaniloSamways/ForBell```
+Fiz esse projeto do zero, programação e idealização foi feito por mim, as imagens foram retiradas da internet.
 
-Acesse a pasta do repositório e instale as dependências com ```npm i```
+Demorei cerca de 3 dias, começando no sábado de manhã e terminando na segunda á noite.
 
-Para rodar o projeto, execute ```npm run start```
-
-## Autores
-
-- [Danilo Samways](https://www.github.com/DaniloSamways)
+Foi usado vscode para ser feito o site.
